@@ -1,0 +1,40 @@
+Admin Login:
+     - **Email**: admin@tulipgarden.com
+       **Password**: admin
+	
+     - **Email**: sharanP@tulipgarden.com
+       **Password**: admin
+
+
+
+
+User Login:
+     - **Email**: sharan_user@outlook.com
+       **Password**: sharan123
+      
+	-**Email**:  noronhaShar@icloud.com
+	**Password**:noronha
+
+     - **Email**: angela@outlook.com
+     - **Password**: angela123
+
+	email: sonia@gmail.com
+	password: sonia
+
+     - **Email**: william@icloud.com
+     - **Password**: william
+
+     - **Email**: mathias@gmail.com
+     - **Password**: mathias
+
+     - **Email**:walter@outlook.com
+		 walter
+
+     - **Email**:Jannet@gmail.com
+		 Jannet@123
+
+    - **Email**: Lethcia@gmail.com
+		 Lethcia
+
+    - **Email**: jaspreeth@gmail.com
+		 jaspreeth
