@@ -1,0 +1,48 @@
+### Requirements
+
+Before running this Room Booking System, ensure that your environment meets the following requirements:
+
+#### System Requirements:
+- Operating System: Windows, macOS, Linux
+- Web Server: Apache (XAMPP, WAMP, or any other local server)
+- Database: MySQL or MariaDB
+- PHP Version: 7.4 or higher
+- Browser: Latest versions of Chrome, Firefox, or any modern browser
+
+#### Software Requirements:
+- Download and Install Xampp in C or D drive. (I installed in D drive and it worked well for me (Read the README.txt file)
+- PHP: Ensure PHP is installed and working properly. You can download it via XAMPP, WAMP, or directly from the [PHP official site](https://www.php.net/downloads).
+- MySQL/MariaDB: Ensure that a MySQL or MariaDB database is running on your local machine or server.
+- phpMyAdmin: (optional) This helps to manage the database visually and easily import SQL files.
+  
+#### Additional Tools:
+- MySQL Workbench or phpMyAdmin: To manage your database easily.
+- Composer: If any dependencies are added later, you'll need [Composer](https://getcomposer.org/) to manage them.
+- A text editor or IDE: Examples include Sublime Text, Visual Studio Code, or PHPStorm.
+
+#### Database Setup:
+Before using the system, import the provided SQL file ('D:\Xampp\htdocs\tulip_garden\tulip_garden.sql') into your MySQL database. You can use phpMyAdmin or MySQL Workbench to import the file.
+
+1. **Database**: Ensure MySQL/MariaDB/phpMyAdmin is running.
+2. **Database Import**:
+   - Open 'phpMyAdmin' or any MySQL client.
+   - Create a database named 'Tulip_garden'.
+   - Import the 'tulip_garden.sql' file into the database.
+
+#### Login Credentials:
+Admin Login:
+     - Email: 'admin@tulipgarden.com'
+       Password: `admin`
+	
+     - Email: 'sharanP@tulipgarden.com'
+       Password: 'admin'
+
+
+- Existing User Login details:
+     - **Email**: 'sharan_user@outlook.com'
+     - **Password**: 'sharan123'
+      or
+ 	noronhaShar@icloud.com
+	noronha
+
+Note: All passwords are stored in encrypted form using the 'bcrypt' algorithm.
